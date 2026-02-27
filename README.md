@@ -144,7 +144,7 @@ I'm always excited to collaborate on:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-joeqian%40aliyun.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeqian@aliyun.com)
-[![WeChat](https://img.shields.io/badge/WeChat-Joeqqqqqqqq-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![WeChat](https://img.shields.io/badge/WeChat-Joeqqqqqqq-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
 </div>
 
